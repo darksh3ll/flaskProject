@@ -24,4 +24,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: username/my-flask-app:latest
+        tags: darksh3ll/my-flask-app:latest
